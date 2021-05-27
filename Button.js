@@ -17,3 +17,14 @@ function red()
 {
 	document.getElementById("color").style.color="red";
 }
+
+function cheetah()
+{
+	document.getElementById("animal").innerHTML="cheetah";
+}
+
+function purple()
+{
+	document.getElementById("color").style.color="purple";
+}
+
